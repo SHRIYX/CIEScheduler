@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694582133264",
+    "firebase_url": "https://ciescheduler.firebaseio.com",
+    "project_id": "ciescheduler",
+    "storage_bucket": "ciescheduler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694582133264:android:d7ebecd7099df3cd28c095",
+        "android_client_info": {
+          "package_name": "edu.becbgk.ciescheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694582133264-c3m6a66nvhabghus4c1ie7gt6du9ki13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.becbgk.ciescheduler",
+            "certificate_hash": "a662d09dd6196e1e670b0d45c0b152b008605d12"
+          }
+        },
+        {
+          "client_id": "694582133264-bov83ttmib7glr1hhcij5ac7bvkrjsq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsiMx_sK-_wOwa_6j3OBETyn3Z-6mVay4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694582133264-bov83ttmib7glr1hhcij5ac7bvkrjsq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
